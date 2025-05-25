@@ -16,3 +16,4 @@ date,field_id,weight_kg,quality,harvester,notes
 4. quality - качество урожая (excellent/good/medium/poor)
 5. harvester - фамилия сборщика
 6. notes - дополнительные заметки
+7. salary - зарплата
